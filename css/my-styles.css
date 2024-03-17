@@ -1,0 +1,32 @@
+        * {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #181825;
+        box-sizing: border-box;
+        background-color : crgb(25, 25, 205)81825 ;
+    }
+        
+        header h1 {
+        color: #181825; }
+
+        article h4 {
+        text-align: center;}
+
+        section h3 {
+            font-weight: 80%;
+        }
+
+        article img {
+        max-width: 100%;
+        height:auto;}
+
+        nav, #feature, footer {
+        margin: 1%; }
+
+        nav li {
+        display: inline;
+		padding: 0.5em;
+        color: #e9cdc8;}
+
+        .row-color-1 {
+            background: color #181825;
+        }
